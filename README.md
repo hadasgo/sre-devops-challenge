@@ -3,7 +3,7 @@ A challenge for SRE candidate
 
 Your task is to implement a CI/CD pipeline for an existing open source project of your choice.
 
-Prerequisites | Tools / Online account(s) needed to perform this exercise
+# Prerequisites | Tools / Online account(s) needed to perform this exercise
 
 Github / Other online git service account
 CI server / online service (e.g Jenkins/Travis) - build based on code change
@@ -13,7 +13,7 @@ Requirements
 
 Deployment tool - deploy latest code
 Vagrant | Virtualbox | AWS (free tier account) | Online solution
-Objectives
+# Objectives
 Setup a CI flow for an open source project - it can be in any program language, but must have some level of unit testing (we can provide an example if needed).
 Build & Deploy a service as a Docker container activity
 High level guidance
@@ -29,9 +29,9 @@ Deliverable will be in a form of a PR (1 or more) + access to CI process/server
 
 Any manual instructions should be supplied as part of the PR in a form of README.md
 
-For any questions you can contact us back
+# For any questions you can contact us back
 
-Task Submission
+# Task Submission
 Fork this repo
 Submit a PR
 OR
